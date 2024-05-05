@@ -1,6 +1,1 @@
-# chlebOS
-# chlebOS
-# chlebOS
-# chlebOS
-# chlebOS
-# chlebOS
+arch bassed distro
